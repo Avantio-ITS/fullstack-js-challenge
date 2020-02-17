@@ -19,6 +19,10 @@ Los endpoints que habrá que implementar serán los siguientes:
 - Edición de noticia
 - Creación de noticia
 
+## Tareas previas
+- Crear un repositorio de GIT (Bitbucket, GitHub o similar) con acceso público uno para backend y otro para frontend
+- Antes de empezar las tareas envíanos por e-mail el enlace del repositorio.
+- Haz los commits que consideres oportunos conforme vayas desarrollando las diferentes tareas (Mínimo un commit por tarea).
 
 ## Que se espera de ti
 ### Frontend
